@@ -7,6 +7,9 @@
 </head>
 <body>
     <h1>halo dunia</h1>
+    <ul>
+        <li>list</li>
+    </ul>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam ipsam aut reiciendis libero ad error vitae fugit consectetur recusandae voluptatem commodi vero quod neque incidunt accusantium minima, numquam, corrupti blanditiis.</p>
 </body>
 </html>
